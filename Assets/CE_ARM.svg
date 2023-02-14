@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="fabry_perot_example1.svg"
+   id="svg990"
+   version="1.1"
+   width="338.63"
+   viewBox="0 0 338.63 99.76"
+   height="99.76">
+  <metadata
+     id="metadata996">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs994">
+    <marker
+       id="e-8"
+       orient="auto"
+       overflow="visible"
+       refX="0"
+       refY="0">
+      <path
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.04 z"
+         fill-rule="evenodd"
+         stroke-linejoin="round"
+         stroke-width="0.63"
+         transform="scale(0.6)"
+         id="path867-0" />
+    </marker>
+    <marker
+       id="f-0"
+       orient="auto"
+       overflow="visible"
+       refX="0"
+       refY="0">
+      <path
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.04 z"
+         fill-rule="evenodd"
+         stroke-linejoin="round"
+         stroke-width="0.63"
+         transform="scale(-0.6)"
+         id="path870-4" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="g988"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="56"
+     inkscape:cy="2.154586"
+     inkscape:cx="164.83577"
+     inkscape:zoom="2.2325251"
+     showgrid="false"
+     id="namedview992"
+     inkscape:window-height="847"
+     inkscape:window-width="1384"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <linearGradient
+     y2="12.754"
+     y1="33.346"
+     x2=".002"
+     x1=".002"
+     gradientUnits="userSpaceOnUse"
+     id="a">
+    <stop
+       id="stop833"
+       stop-color="#fff"
+       offset="0" />
+    <stop
+       id="stop835"
+       stop-color="#fefcfc"
+       offset=".0051" />
+    <stop
+       id="stop837"
+       stop-color="#e6a4a4"
+       offset=".1497" />
+    <stop
+       id="stop839"
+       stop-color="#d35e5e"
+       offset=".277" />
+    <stop
+       id="stop841"
+       stop-color="#c62b2b"
+       offset=".3823" />
+    <stop
+       id="stop843"
+       stop-color="#bd0c0c"
+       offset=".4615" />
+    <stop
+       id="stop845"
+       stop-color="#ba0000"
+       offset=".5056" />
+    <stop
+       id="stop847"
+       stop-color="#d86e6e"
+       offset=".7077" />
+    <stop
+       id="stop849"
+       stop-color="#f4d6d6"
+       offset=".9099" />
+    <stop
+       id="stop851"
+       stop-color="#fff"
+       offset="1" />
+  </linearGradient>
+  <linearGradient
+     y2=".002"
+     y1="29.098"
+     x2=".106"
+     x1=".106"
+     gradientUnits="userSpaceOnUse"
+     id="b">
+    <stop
+       id="stop854"
+       stop-color="#89a4b6"
+       offset=".0056" />
+    <stop
+       id="stop856"
+       stop-color="#fff"
+       offset=".5" />
+    <stop
+       id="stop858"
+       stop-color="#89a4b6"
+       offset="1" />
+  </linearGradient>
+  <radialGradient
+     xlink:href="#d"
+     r="6.75"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(2.71 0 0 2.66 -16.42 -15.83)"
+     fy="8.25"
+     fx="9.59"
+     cy="8.25"
+     cx="9.59"
+     id="c" />
+  <radialGradient
+     r="17.07"
+     gradientUnits="userSpaceOnUse"
+     fy="7.46"
+     fx="8.88"
+     cy="7.46"
+     cx="8.88"
+     id="d">
+    <stop
+       id="stop862"
+       stop-color="#fede58"
+       offset="0" />
+    <stop
+       id="stop864"
+       stop-color="#ba0000"
+       offset=".6854" />
+  </radialGradient>
+  <marker
+     refY="0"
+     refX="0"
+     overflow="visible"
+     orient="auto"
+     id="e">
+    <path
+       id="path867"
+       transform="scale(.6)"
+       stroke-width=".63"
+       stroke-linejoin="round"
+       fill-rule="evenodd"
+       d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.04z" />
+  </marker>
+  <marker
+     refY="0"
+     refX="0"
+     overflow="visible"
+     orient="auto"
+     id="f">
+    <path
+       id="path870"
+       transform="scale(-.6)"
+       stroke-width=".63"
+       stroke-linejoin="round"
+       fill-rule="evenodd"
+       d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.04z" />
+  </marker>
+  <radialGradient
+     xlink:href="#d"
+     r="6.75"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(2.71 0 0 2.66 -16.42 -15.83)"
+     fy="8.25"
+     fx="9.59"
+     cy="8.25"
+     cx="9.59"
+     id="g" />
+  <g
+     id="g988"
+     transform="translate(160 -181.27)">
+    <g
+       id="g884"
+       stroke-linecap="round"
+       stroke="#f00"
+       fill="none">
+      <path
+         id="path876"
+         stroke-width="4.5"
+         d="m-32.41 229.2h117.99" />
+    </g>
+    <g
+       id="g906"
+       transform="matrix(-.75 0 0 -.75 -28.22 240.11)"
+       stroke-width=".75"
+       stroke="#000"
+       enable-background="new">
+      <path
+         id="path900"
+         fill="url(#b)"
+         d="m8.84.38h-8.36c.76 3.05 1.27 8.25 1.27 14.17s-.51 11.13-1.27 14.17h8.36z" />
+      <path
+         id="path902"
+         d="m7.42.38h2.84v28.35h-2.84z" />
+      <path
+         id="path904"
+         d="m8.98 4.63h8.5v19.84h-8.5z" />
+    </g>
+    <g
+       id="g912"
+       transform="matrix(.75 0 0 .75 80.73 218.29)"
+       stroke-width=".75"
+       stroke="#000"
+       enable-background="new">
+      <path
+         id="path908"
+         fill="url(#b)"
+         d="m8.84.38h-8.36c.76 3.05 1.27 8.25 1.27 14.17s-.51 11.13-1.27 14.17h8.36z" />
+      <path
+         id="path910"
+         d="m7.42.38h2.84v28.35h-2.84z" />
+    </g>
+    <text
+       id="text956"
+       y="206.99461"
+       xml:space="preserve"
+       x="72.092552"
+       font-family="cmr10">ETM</text>
+    <text
+       id="text962"
+       y="206.99461"
+       xml:space="preserve"
+       x="-44.20438"
+       font-family="cmr10">ITM</text>
+    <path
+       id="path964"
+       stroke-width="1.5"
+       stroke="#000"
+       marker-start="url(#e)"
+       marker-end="url(#f)"
+       d="m-23.57 220.53h99.21" />
+    <text
+       id="text968"
+       y="215.61"
+       x="-0.066547759"
+       font-family="cmr10"><tspan
+         id="tspan966"
+         y="215.61"
+         x="-0.066547759"
+         font-size="12px">L=40 km</tspan></text>
+    <text
+       font-family="cmr10"
+       x="-67.18824"
+       xml:space="preserve"
+       y="256.40417"
+       id="text962-6">R<tspan
+   id="tspan1013"
+   style="font-size:65%;baseline-shift:sub">c</tspan>=25.2 km</text>
+    <path
+       d="m 97.107963,219.16313 v 19.56618"
+       marker-end="url(#f-0)"
+       marker-start="url(#e-8)"
+       stroke="#000000"
+       stroke-width="1.5"
+       id="path964-7"
+       style="stroke-width:1.13386;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#e-8);marker-end:url(#f-0)" />
+    <text
+       id="text962-6-0"
+       y="234.30048"
+       xml:space="preserve"
+       x="103.34075"
+       font-family="cmr10">D=68 cm</text>
+    <text
+       id="text962-6-9"
+       y="254.45703"
+       xml:space="preserve"
+       x="57.14204"
+       font-family="cmr10">w=13 cm</text>
+  </g>
+</svg>
